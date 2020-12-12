@@ -20,7 +20,7 @@ the coffee shops and also to analyse a proper location to open
 new coffee shop with less competition around using the power of
 data and machine learning
 
-<h1>Targeted Audience:</h1>
+<h2>Targeted Audience:</h2>
 <ul>
   <li> Tourists</li>
   <li>Coffee Lovers</li>

@@ -1,5 +1,5 @@
 # Clustering Cafes of Mumbai
-Introduction:
+<h2>Introduction:</h2>
 <br>
 Coffee being a most consumed beverage in the world. This
 project is for those who love coffe much and always wanted to
@@ -12,7 +12,7 @@ available also with advanced business analysis we can advice any
 one who wants to open a new coffee shop
 <br>
 <hr>
-<h1>Business Problem:</h2>
+<h2>Business Problem:</h2>
 
 The objective of this capstone project is to guide tourists so
 that they can stay nearby most of coffee shops or explore most of

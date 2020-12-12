@@ -21,7 +21,9 @@ new coffee shop with less competition around using the power of
 data and machine learning
 
 <h1>Targeted Audience:</h1>
- Tourists
- Coffee Lovers
- Businessmen
- Marketing companies for advertising campaigns
+<ul>
+  <li> Tourists</li>
+  <li>Coffee Lovers</li>
+  <li>Businessmen</li>
+  <li> Marketing companies for advertising campaigns</li>
+  </ul>

@@ -1,5 +1,5 @@
-# Coursera_Capstone
-<h1>Introduction:<h1>
+# Clustering Cafes of Mumbai
+Introduction:
 <br>
 Coffee being a most consumed beverage in the world. This
 project is for those who love coffe much and always wanted to
